@@ -87,3 +87,22 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
   yarn add react-weathericons
 
+21. Recomendaciones sobre uso de packages externos y ubicación del index.html
+
+  CDN:  Content delivery network
+    Servidores que proveen gran cantidad de contenido online
+
+  CDN de weather icons:
+    https://cdnjs.com/libraries/weather-icons
+
+    CSS minificado:
+    https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css
+
+  Sitio con iconos disponibles:
+    http://erikflowers.github.io/weather-icons/
+
+  Sitio con fuente del componente react-weathericons:
+    https://github.com/lucaskatayama/react-weathericons#readme
+
+  Sitio con información sobre versión e instalación:
+    https://www.npmjs.com/package/react-weathericons

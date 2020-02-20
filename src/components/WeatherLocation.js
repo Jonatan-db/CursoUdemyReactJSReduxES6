@@ -6,7 +6,7 @@ import WeatherIcons from 'react-weathericons'
 const WeatherLocation = () => {
   return (
     <div>
-      <WeatherIcons name="cloud" size="2x" />
+      <WeatherIcons name="day-sunny" size="2x" />
       <Location city={"Buenos Aires"} />
       <WeatherData />
     </div>
