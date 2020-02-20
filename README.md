@@ -78,3 +78,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
   Pasaje de props a un componente
 
 16. Parámetro con Object Destructuring
+
+18. Parámetros y uso de template string
+  Uso de template strings
