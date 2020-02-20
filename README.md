@@ -76,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 15. Uso de parámetros / Herramientas de debugging
   Pasaje de props a un componente
+
+16. Parámetro con Object Destructuring
