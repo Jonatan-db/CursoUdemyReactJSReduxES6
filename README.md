@@ -81,3 +81,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 18. Parámetros y uso de template string
   Uso de template strings
+
+20. Instalación de libreria con npm install o yarn add
+  https://www.npmjs.com/package/react-weathericons
+
+  yarn add react-weathericons
+
