@@ -2,7 +2,8 @@ import React from 'react';
 import './App.css';
 import WeatherLocation from './components/WeatherLocation';
 
-function App() {
+function App(props) {
+  console.log(props)
   return (
     <div className="App">
       <WeatherLocation/>
